@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* style wind above */
+/* var */
+:root{
+    --color-white: #f6f7f8;
+}
+
+/* end var */
+
+body{
+    background-color: var(--color-white);
+}
